@@ -6,7 +6,8 @@ You can run `main.py` directly to view some results, or look into the `vanilla_g
 
 # Result Images
 You can refer to `vanilla-gan\result_images` to observe the performances of this vanilla gan.
-
+<img src="vanilla-gan/result_images/gan_with_dnn.png" width="400px"/>
+<img src="vanilla-gan/result_images/gan_with_cnn.png" width="400px"/>
 # Reference
 + [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 + [assignment 3, cs231n, Stanford](http://cs231n.github.io/assignments2017/assignment3/)
